@@ -1,0 +1,3 @@
+K:/dev/cpp/otus/repo/otuscpp-2/build/CMakeFiles/hello_world.dir
+K:/dev/cpp/otus/repo/otuscpp-2/build/CMakeFiles/ALL_BUILD.dir
+K:/dev/cpp/otus/repo/otuscpp-2/build/CMakeFiles/ZERO_CHECK.dir
